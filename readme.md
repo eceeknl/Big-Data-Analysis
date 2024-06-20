@@ -18,7 +18,7 @@ Kaggle üzerinden alınan [veri seti](https://www.kaggle.com/datasets/mohamedbak
 • review/score \
 • review/time \
 • review/summary (Görüş özeti) \
-• review/text (Görüş) \
+• review/text (Görüş) 
 
 3 milyon gözlem ve 10 sütundan oluşan veri setinden sadece 
 **review/text** sütunu ve **10.000** gözlemden oluşan örneklem çekilmiştir. Ve ilgili analizler elde edilen yeni veri seti üzerinden uygulanmıştır.
